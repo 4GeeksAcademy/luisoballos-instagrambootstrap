@@ -1,0 +1,9 @@
+.hide {
+    display: none;
+}
+
+.post {
+    margin-bottom: 20px;
+    border: solid lightgray 1px;
+    max-width: 500px;
+}
